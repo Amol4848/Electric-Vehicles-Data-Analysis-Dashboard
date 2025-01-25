@@ -2,8 +2,6 @@
 
 This repository contains the Electric Vehicles Data Analysis Dashboard, which provides insights into electric vehicle (EV) trends based on key performance metrics and demographic data. The interactive dashboard is designed to help policymakers, automakers, and EV enthusiasts understand the current EV landscape and identify opportunities for growth.
 
-## Dataset used##
-
 ##Key KPIs Tracked in the Dashboard:##
 
 #Total Registered EVs:#
